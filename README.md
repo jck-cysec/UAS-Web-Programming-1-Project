@@ -103,19 +103,15 @@ Akses: `http://127.0.0.1:PORT`
 
 ## 📸 Screenshots
 
-Tambahkan screenshot di `docs/screenshots/` dan referensikan di sini.
-
 ![Home Screenshot](docs/screenshot/home.png)
 
-![Admin - Dashboard](docs/screenshots/admin.png)
+![Admin - Dashboard](docs/screenshotsadmin.png)
 
 ---
 
 ## 🎬 Video Demo
 
-Tambahkan `docs/demo.mp4` atau tautkan video YouTube.
-
-**Demo Video (placeholder):** https://youtu.be/REPLACE_WITH_YOUR_VIDEO
+**Demo Video:** Coming Soon 
 
 ---
 
@@ -123,7 +119,7 @@ Tambahkan `docs/demo.mp4` atau tautkan video YouTube.
 
 Tambahkan link deploy di bawah ini:
 
-**Live Demo:** https://nokenz.example.com
+**Live Demo:** https://nokenz.ComingSoon.com
 
 ---
 
