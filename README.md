@@ -1,5 +1,3 @@
-# NOKENZ — Game Store 🎮
-
 ![Banner](public/assets/images/banner.png)
 
 ![Status](https://img.shields.io/badge/Status-UAS_Project-blue)
@@ -14,6 +12,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+# NOKENZ — Game Store 
 
 ## 📌 Ringkasan Proyek
 
