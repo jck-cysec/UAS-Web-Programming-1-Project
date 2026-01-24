@@ -105,7 +105,7 @@ Akses: `http://127.0.0.1:PORT`
 
 ![Home Screenshot](docs/screenshot/home.png)
 
-![Admin - Dashboard](docs/screenshotsadmin.png)
+![Admin - Dashboard](docs/screenshot/admin.png)
 
 ---
 
