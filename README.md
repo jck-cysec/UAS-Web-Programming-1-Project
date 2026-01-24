@@ -105,7 +105,7 @@ Akses: `http://127.0.0.1:PORT`
 
 Tambahkan screenshot di `docs/screenshots/` dan referensikan di sini.
 
-![Home Screenshot](docs/screenshots/home.png)
+![Home Screenshot](docs/screenshot/home.png)
 
 ![Admin - Dashboard](docs/screenshots/admin.png)
 
