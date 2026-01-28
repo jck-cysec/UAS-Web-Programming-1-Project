@@ -86,6 +86,27 @@
                 <div class="max-w-7xl mx-auto px-4 md:px-8 py-8">
                     @yield('content')
                 </div>
+
+                <!-- Footer - Minimalist -->
+                <footer class="bg-gray-900 text-white mt-16">
+                    <div class="max-w-7xl mx-auto px-4 md:px-8 py-8">
+                        <!-- Logo -->
+                        <div class="flex justify-center mb-6">
+                            <div class="flex items-center gap-2">
+                                <div class="w-8 h-8 bg-white rounded relative flex items-center justify-center overflow-hidden">
+                                    <img src="{{ asset('assets/images/logo-transparent.png') }}" alt="NOKENZ Logo" class="w-6 h-6 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
+                                    <div class="hidden absolute inset-0 items-center justify-center text-black font-bold text-sm">N</div>
+                                </div>
+                                <h4 class="text-xl font-bold">NOKENZ</h4>
+                            </div>
+                        </div>
+
+                        <!-- Copyright -->
+                        <div class="border-t border-gray-800 pt-6 text-center">
+                            <p class="text-gray-500 text-sm">© 2024 Copyright by 23552011072_HaidirMirzaAhmadZacky_CNSB_UASWEB1</p>
+                        </div>
+                    </div>
+                </footer>
             </main>
         </div>
     </div>
