@@ -23,7 +23,7 @@
                 
                 <!-- Subtitle -->
                 <p class="text-xl md:text-2xl text-white/90 font-medium max-w-2xl">
-                    Kami adalah platform jual beli game indie terpercaya yang menghadirkan koleksi terbaik untuk berbagai platform
+                    Kami adalah platform jual beli game terpercaya yang menghadirkan koleksi terbaik untuk berbagai platform
                 </p>
                 
                 <!-- CTA Buttons -->
