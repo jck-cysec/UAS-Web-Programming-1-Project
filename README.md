@@ -1,3 +1,5 @@
+# NOKENZ — Game Store 🎮
+
 ![Banner](public/assets/images/banner.png)
 
 ![Status](https://img.shields.io/badge/Status-UAS_Project-blue)
@@ -12,7 +14,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
-# NOKENZ — Game Store 
 
 ## 📌 Ringkasan Proyek
 
@@ -103,15 +104,19 @@ Akses: `http://127.0.0.1:PORT`
 
 ## 📸 Screenshots
 
-![Home Screenshot](docs/screenshot/home.png)
+Tambahkan screenshot di `docs/screenshots/` dan referensikan di sini.
 
-![Admin - Dashboard](docs/screenshot/admin.png)
+![Home Screenshot](docs/screenshots/home.png)
+
+![Admin - Dashboard](docs/screenshots/admin.png)
 
 ---
 
 ## 🎬 Video Demo
 
-**Demo Video:** Coming Soon 
+Tambahkan `docs/demo.mp4` atau tautkan video YouTube.
+
+**Demo Video (placeholder):** https://youtu.be/REPLACE_WITH_YOUR_VIDEO
 
 ---
 
@@ -119,7 +124,7 @@ Akses: `http://127.0.0.1:PORT`
 
 Tambahkan link deploy di bawah ini:
 
-**Live Demo:** https://nokenz.ComingSoon.com
+**Live Demo:** https://nokenz.example.com
 
 ---
 
