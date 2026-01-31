@@ -112,19 +112,11 @@ Tambahkan screenshot di `docs/screenshots/` dan referensikan di sini.
 
 ---
 
-## 🎬 Video Demo
-
-Tambahkan `docs/demo.mp4` atau tautkan video YouTube.
-
-**Demo Video (placeholder):** https://youtu.be/REPLACE_WITH_YOUR_VIDEO
-
----
-
 ## 🌐 Live Demo
 
 Tambahkan link deploy di bawah ini:
 
-**Live Demo:** https://nokenz.example.com
+**Live Demo:** [Klik This Link](https://noken-gs.my.id/)
 
 ---
 
